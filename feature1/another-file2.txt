@@ -1,3 +1,5 @@
-This is another-file2.txt in feature-1 branch.
+This line was modified in feature-2 branch. - 08/04/2024 16:59:47 Mon
 
 This file was modified locally. 02/04/2024 20:14:47 Tue
+
+This line was added in the feature-2 branch: 08/04/2024 16:37:47 Mon

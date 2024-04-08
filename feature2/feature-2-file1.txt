@@ -1,4 +1,0 @@
-feature-2-file1.txt
-
-Let't see if I can push the branch feature-2 to the Github, hopefully, using
-Windows Credentials Manager for Git.
